@@ -11,7 +11,8 @@ function Layout(props)
       
    <Mainnavigation/>   
       <main className={classes.main}>{props.children}</main>
-      gfgfdg
+    
+  
       </div>);
 
 }export default Layout;
